@@ -1,4 +1,4 @@
-I should really make this use notepad++
+Notepad++ has saved me from the line endings
 
 * Data Scientist's Toolbox
 * R Programming-
